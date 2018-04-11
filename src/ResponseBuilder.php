@@ -12,6 +12,10 @@ namespace lanzhi\http;
 use GuzzleHttp\Psr7\Response;
 use Psr\Http\Message\ResponseInterface;
 
+/**
+ * Class ResponseBuilder
+ * @package lanzhi\http
+ */
 class ResponseBuilder
 {
     /**

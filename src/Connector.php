@@ -20,8 +20,7 @@ use Psr\Log\NullLogger;
 
 /**
  * Class Connector
- * @package lanzhi\coroutine\http
- *
+ * @package lanzhi\http
  */
 class Connector
 {

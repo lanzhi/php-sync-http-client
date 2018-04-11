@@ -14,6 +14,10 @@ use GuzzleHttp\Psr7\Request;
 use GuzzleHttp\Psr7\UriResolver;
 use Psr\Http\Message\RequestInterface;
 
+/**
+ * Class RequestBuilder
+ * @package lanzhi\http
+ */
 class RequestBuilder
 {
     /**

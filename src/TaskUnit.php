@@ -18,7 +18,7 @@ use Psr\Log\NullLogger;
 
 /**
  * Class TaskUnit
- * @package lanzhi\coroutine\http
+ * @package lanzhi\http
  *
  * @method ResponseInterface getReturn()
  */

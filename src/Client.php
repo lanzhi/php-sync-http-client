@@ -15,7 +15,7 @@ use Psr\Log\LoggerInterface;
 
 /**
  * Class Client
- * @package lanzhi\coroutine\http
+ * @package lanzhi\http
  *
  * 该客户端 API 参照 guzzlehttp，并最大限度与其保持一致，不同如下：
  * 不支持 send 及 send API

@@ -9,6 +9,10 @@
 namespace lanzhi\http;
 
 
+/**
+ * Class RequestOptions
+ * @package lanzhi\http
+ */
 class RequestOptions
 {
     /**
