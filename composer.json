@@ -1,0 +1,25 @@
+{
+    "name": "lanzhi/php-sync-http-client",
+    "description": "php sync http client",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "蓝至",
+            "email": "i@lanzhi.me"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0",
+        "lanzhi/php-coroutine": "*",
+        "guzzlehttp/psr7": "^1.4",
+        "psr/http-message": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {"lanzhi\\http\\": "src/"}
+    },
+    "require-dev": {
+
+    }
+}
